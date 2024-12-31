@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+matplotlib
+seaborn
+plotly
+google-api-python-client
+nltk
+pytz
+scikit-learn
+wordcloud
+dash
+openpyxl
